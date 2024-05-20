@@ -47,13 +47,13 @@ ProductManagementSystem is a Python application designed to manage a collection 
     - Ensure you have PostgreSQL installed and running.
     - Create a database named `productdb`:
       ```sql
-      CREATE DATABASE products;
+      CREATE DATABASE productsdb;
       ```
 
 6. **Create the database schema and insert sample data**:
     - Run the provided SQL script `setup.sql`:
       ```sh
-      psql -U postgres -d products -f setup.sql
+      psql -U postgres -d productsdb -f setup.sql
       ```
 
 7. **Run the FastAPI application**:
