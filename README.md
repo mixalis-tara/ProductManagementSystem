@@ -68,7 +68,7 @@ ProductManagementSystem is a Python application designed to manage a collection 
 ## File Structure:
 
 - `main.py`: The main Python script to run the FastAPI application.
-- `models.py`: Contains the Pydantic models and data schemas.
+- `domain/product.py`: Contains the Pydantic models and data schemas.
 - `repositories/`: Contains repository classes for database interactions.
   - `databaseConnection.py`: Handles the database connection.
   - `product_repository.py`: Defines methods for CRUD operations on products.
