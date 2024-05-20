@@ -5,6 +5,7 @@ ProductManagementSystem is a Python application designed to manage a collection 
 ## Features:
 
 - **View Products**: Browse through a list of products in the collection.
+- **View Product by name**: Browse a product by name in the collection.
 - **Add New Products**: Easily add new products to the collection with details such as name, description, price, and quantity.
 - **Update Product Details**: Update information about a specific product.
 - **Delete Products**: Remove products from the collection.
