@@ -9,4 +9,3 @@ class Product(BaseModel):
 
 class StockPayLoad(Product):
     action: str
-    quantity: int

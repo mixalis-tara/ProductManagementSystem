@@ -13,7 +13,7 @@ INSERT INTO products (name, description, price, quantity) VALUES
 ('Samsung Galaxy S21', 'smartphone', 899.99, 30),
 ('Google Pixel 6', 'smartphone', 799.99, 20),
 ('OnePlus 9', 'smartphone', 699.99, 15),
-('Sony Xperia 5 II', 'smartphone', 799.99, 25);
+('Sony Xperia 5 ', 'smartphone', 799.99, 25);
 
 -- Verify the data
 SELECT * FROM products;
