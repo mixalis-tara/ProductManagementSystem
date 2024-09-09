@@ -1,4 +1,4 @@
-# Product Management System
+# CRUD System API's
 
 ProductManagementSystem is a Python application designed to manage a collection of products. It allows users to view a list of products, add new products, update product details, delete products, manage stock levels, and calculate product statistics.
 
